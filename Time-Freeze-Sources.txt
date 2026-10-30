@@ -1,0 +1,12 @@
+TIME STOPPED — LIVE-ACTION EDIT
+
+Source footage: Kapaw, Pexels video 3604054
+https://www.pexels.com/video/people-walking-across-the-believue-square-in-zurich-3604054/
+License: https://www.pexels.com/license/
+The user-supplied SOURCES.txt identifies this clip as Pexels License footage, usable for editing and social-media publication. Attribution is included here; no endorsement by the creator or people depicted is implied.
+
+This is a fictional visual-effects edit made from real camera footage, not a generated 3D scene. Source dimensions: 1920x1080 at 25fps. Final: tracked vertical 720x1280, 10 seconds, silent, 50fps with interpolated motion; it is not native 4K or native 50fps footage.
+
+Edit: digital stabilization against a fixed reference, foreground segmentation of the walking woman, a frozen environment, camera-aligned background repair, tracked vertical framing, subtle color separation and return to live motion. Segmentation uses U2NetP from the official danielgatis/rembg release. Slight edge softness may remain around fine hair, bag handles and motion-blurred feet.
+
+The 4K city-square candidate was 72 MB, exceeding this environment's 32 MiB per-file transfer limit. Zurich was selected as the usable first version. No unedited stock video is redistributed in this delivery.
